@@ -3,11 +3,6 @@ twitter-nowplaying
 
 tweets the current track (iTunes, Mac)
 
-just edit the consumer_key, consumer_secret, access_token_key, acces_token_secret and the script should work
+Before you can use this script you have to create a new Twitter-Application on https://dev.twitter.com/apps/new. Create your Access-Keys and replace the 4 keys in the script with the ones from your Twitter-Application.
 
-
-
-NOTE:
-You need python-twitter to run the script:
-https://github.com/bear/python-twitter
-
+You also have to install tweepy if you want to run the script. https://github.com/tweepy/tweepy

@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from ScriptingBridge import *
+from ScriptingBridge import SBApplication
 import tweepy
 
 iTunes = SBApplication.applicationWithBundleIdentifier_("com.apple.iTunes")
